@@ -9,7 +9,7 @@ This repository demonstrates how to run a simple quantum circuit on IBM's quantu
 
 ## Technologies Used
 1. **Software Development Kit**: Qiskit v1.2.4.
-2. **Programming Support**: Python v3.9.9
+2. **Programming Support**: Python v3.9.9, qiskit-ibm-runtime v0.33.2.
 3. **Physical Backends**: ibm\_kyiv v1.20.21.
 
 ## Experiment Details
