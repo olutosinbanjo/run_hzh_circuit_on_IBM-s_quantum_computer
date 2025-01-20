@@ -1,0 +1,7 @@
+{
+	"name":{
+		"channel": "ibm_quantum",
+		"instance" : "ibm-q/open/main",
+		"token": "your-token"
+		}
+		}
