@@ -1,2 +1,8 @@
-# run_hzh_circuit_on_IBM-s_quantum_computer
-Run a Quantum Circuit on IBM's Quantum Computer
+# Run a Quantum Circuit on IBM's Quantum Computer
+
+This repository demonstrates how to run a simple quantum circuit on IBM's quantum computer. 
+
+## Concepts
+
+1. Qiskit Runtime Service
+2. Sampler Primitive
